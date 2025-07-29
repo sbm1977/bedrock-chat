@@ -19,24 +19,24 @@ import RelatedDocumentViewer from '../../../components/RelatedDocumentViewer';
 // Theme of JSONTree
 // NOTE: need to set the theme as base16 style
 const THEME = {
-  scheme: 'aws',
-  author: 'aws',
-  base00: '#f1f3f3', // AWS Paper
-  base01: '#000000',
-  base02: '#000000',
-  base03: '#000000',
-  base04: '#000000',
-  base05: '#000000',
-  base06: '#000000',
-  base07: '#000000',
-  base08: '#000000',
-  base09: '#000000',
-  base0A: '#000000',
-  base0B: '#000000',
-  base0C: '#000000',
-  base0D: '#000000',
-  base0E: '#000000',
-  base0F: '#000000',
+  scheme: 'lgc',
+  author: 'lgc',
+  base00: '#F5F5F5', // LGC Grey Light
+  base01: '#333333',
+  base02: '#333333',
+  base03: '#333333',
+  base04: '#333333',
+  base05: '#333333',
+  base06: '#333333',
+  base07: '#333333',
+  base08: '#00788A',
+  base09: '#339EAD',
+  base0A: '#00788A',
+  base0B: '#339EAD',
+  base0C: '#00788A',
+  base0D: '#00788A',
+  base0E: '#339EAD',
+  base0F: '#333333',
 };
 
 type ToolCardProps = {
